@@ -1,8 +1,6 @@
 #include <iostream>
 #include "FullTableScan.h"
 
-typedef unsigned int uint;
-
 //int main(int argc, char* argv[])
 
 int main(int argc, char** argv) {
