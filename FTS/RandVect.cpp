@@ -1,5 +1,5 @@
 //Tollot Cristiano 3C
-//Per il generatore la guida che ho seguito è questa https://www.youtube.com/watch?v=oW6iuFbwPDg
+
 #include <iostream>
 #include <random>
 
